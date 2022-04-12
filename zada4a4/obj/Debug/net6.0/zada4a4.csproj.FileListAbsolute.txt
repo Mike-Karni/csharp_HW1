@@ -1,0 +1,15 @@
+C:\Users\Upeco\Desktop\homework(1seminar)\zada4a4\bin\Debug\net6.0\zada4a4.exe
+C:\Users\Upeco\Desktop\homework(1seminar)\zada4a4\bin\Debug\net6.0\zada4a4.deps.json
+C:\Users\Upeco\Desktop\homework(1seminar)\zada4a4\bin\Debug\net6.0\zada4a4.runtimeconfig.json
+C:\Users\Upeco\Desktop\homework(1seminar)\zada4a4\bin\Debug\net6.0\zada4a4.dll
+C:\Users\Upeco\Desktop\homework(1seminar)\zada4a4\bin\Debug\net6.0\zada4a4.pdb
+C:\Users\Upeco\Desktop\homework(1seminar)\zada4a4\obj\Debug\net6.0\zada4a4.csproj.AssemblyReference.cache
+C:\Users\Upeco\Desktop\homework(1seminar)\zada4a4\obj\Debug\net6.0\zada4a4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Upeco\Desktop\homework(1seminar)\zada4a4\obj\Debug\net6.0\zada4a4.AssemblyInfoInputs.cache
+C:\Users\Upeco\Desktop\homework(1seminar)\zada4a4\obj\Debug\net6.0\zada4a4.AssemblyInfo.cs
+C:\Users\Upeco\Desktop\homework(1seminar)\zada4a4\obj\Debug\net6.0\zada4a4.csproj.CoreCompileInputs.cache
+C:\Users\Upeco\Desktop\homework(1seminar)\zada4a4\obj\Debug\net6.0\zada4a4.dll
+C:\Users\Upeco\Desktop\homework(1seminar)\zada4a4\obj\Debug\net6.0\refint\zada4a4.dll
+C:\Users\Upeco\Desktop\homework(1seminar)\zada4a4\obj\Debug\net6.0\zada4a4.pdb
+C:\Users\Upeco\Desktop\homework(1seminar)\zada4a4\obj\Debug\net6.0\zada4a4.genruntimeconfig.cache
+C:\Users\Upeco\Desktop\homework(1seminar)\zada4a4\obj\Debug\net6.0\ref\zada4a4.dll
