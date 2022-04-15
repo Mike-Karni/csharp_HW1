@@ -1,0 +1,15 @@
+C:\Users\Upeco\Downloads\языки программирования\1. введение в C#\2 занятие( 1 семинар 11.04.22)\homework(1seminar)\zada4a6\obj\Debug\net6.0\zada4a6.csproj.AssemblyReference.cache
+C:\Users\Upeco\Downloads\языки программирования\1. введение в C#\2 занятие( 1 семинар 11.04.22)\homework(1seminar)\zada4a6\obj\Debug\net6.0\zada4a6.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Upeco\Downloads\языки программирования\1. введение в C#\2 занятие( 1 семинар 11.04.22)\homework(1seminar)\zada4a6\obj\Debug\net6.0\zada4a6.AssemblyInfoInputs.cache
+C:\Users\Upeco\Downloads\языки программирования\1. введение в C#\2 занятие( 1 семинар 11.04.22)\homework(1seminar)\zada4a6\obj\Debug\net6.0\zada4a6.AssemblyInfo.cs
+C:\Users\Upeco\Downloads\языки программирования\1. введение в C#\2 занятие( 1 семинар 11.04.22)\homework(1seminar)\zada4a6\obj\Debug\net6.0\zada4a6.csproj.CoreCompileInputs.cache
+C:\Users\Upeco\Downloads\языки программирования\1. введение в C#\2 занятие( 1 семинар 11.04.22)\homework(1seminar)\zada4a6\bin\Debug\net6.0\zada4a6.exe
+C:\Users\Upeco\Downloads\языки программирования\1. введение в C#\2 занятие( 1 семинар 11.04.22)\homework(1seminar)\zada4a6\bin\Debug\net6.0\zada4a6.deps.json
+C:\Users\Upeco\Downloads\языки программирования\1. введение в C#\2 занятие( 1 семинар 11.04.22)\homework(1seminar)\zada4a6\bin\Debug\net6.0\zada4a6.runtimeconfig.json
+C:\Users\Upeco\Downloads\языки программирования\1. введение в C#\2 занятие( 1 семинар 11.04.22)\homework(1seminar)\zada4a6\bin\Debug\net6.0\zada4a6.dll
+C:\Users\Upeco\Downloads\языки программирования\1. введение в C#\2 занятие( 1 семинар 11.04.22)\homework(1seminar)\zada4a6\bin\Debug\net6.0\zada4a6.pdb
+C:\Users\Upeco\Downloads\языки программирования\1. введение в C#\2 занятие( 1 семинар 11.04.22)\homework(1seminar)\zada4a6\obj\Debug\net6.0\zada4a6.dll
+C:\Users\Upeco\Downloads\языки программирования\1. введение в C#\2 занятие( 1 семинар 11.04.22)\homework(1seminar)\zada4a6\obj\Debug\net6.0\refint\zada4a6.dll
+C:\Users\Upeco\Downloads\языки программирования\1. введение в C#\2 занятие( 1 семинар 11.04.22)\homework(1seminar)\zada4a6\obj\Debug\net6.0\zada4a6.pdb
+C:\Users\Upeco\Downloads\языки программирования\1. введение в C#\2 занятие( 1 семинар 11.04.22)\homework(1seminar)\zada4a6\obj\Debug\net6.0\zada4a6.genruntimeconfig.cache
+C:\Users\Upeco\Downloads\языки программирования\1. введение в C#\2 занятие( 1 семинар 11.04.22)\homework(1seminar)\zada4a6\obj\Debug\net6.0\ref\zada4a6.dll
